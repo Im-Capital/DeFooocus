@@ -36,7 +36,7 @@
         "Fooocus Enhance",
         "Fooocus Sharp"
     ],
-    "default_aspect_ratio": "1152*896",
+    "default_aspect_ratio": "1920*1080",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "FluentlyXL-v4.safetensors": "https://huggingface.co/fluently/Fluently-XL-v4/resolve/main/FluentlyXL-v4.safetensors"
